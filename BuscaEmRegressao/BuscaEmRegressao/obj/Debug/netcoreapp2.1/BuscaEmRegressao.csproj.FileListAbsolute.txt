@@ -1,0 +1,9 @@
+C:\Users\FamiliaOliveira\source\repos\BuscaEmRegressao\BuscaEmRegressao\bin\Debug\netcoreapp2.1\BuscaEmRegressao.deps.json
+C:\Users\FamiliaOliveira\source\repos\BuscaEmRegressao\BuscaEmRegressao\bin\Debug\netcoreapp2.1\BuscaEmRegressao.dll
+C:\Users\FamiliaOliveira\source\repos\BuscaEmRegressao\BuscaEmRegressao\bin\Debug\netcoreapp2.1\BuscaEmRegressao.pdb
+C:\Users\FamiliaOliveira\source\repos\BuscaEmRegressao\BuscaEmRegressao\obj\Debug\netcoreapp2.1\BuscaEmRegressao.csprojAssemblyReference.cache
+C:\Users\FamiliaOliveira\source\repos\BuscaEmRegressao\BuscaEmRegressao\obj\Debug\netcoreapp2.1\BuscaEmRegressao.csproj.CoreCompileInputs.cache
+C:\Users\FamiliaOliveira\source\repos\BuscaEmRegressao\BuscaEmRegressao\obj\Debug\netcoreapp2.1\BuscaEmRegressao.AssemblyInfoInputs.cache
+C:\Users\FamiliaOliveira\source\repos\BuscaEmRegressao\BuscaEmRegressao\obj\Debug\netcoreapp2.1\BuscaEmRegressao.AssemblyInfo.cs
+C:\Users\FamiliaOliveira\source\repos\BuscaEmRegressao\BuscaEmRegressao\obj\Debug\netcoreapp2.1\BuscaEmRegressao.dll
+C:\Users\FamiliaOliveira\source\repos\BuscaEmRegressao\BuscaEmRegressao\obj\Debug\netcoreapp2.1\BuscaEmRegressao.pdb
