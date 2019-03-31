@@ -1,0 +1,14 @@
+C:\Users\FamiliaOliveira\source\repos\BacktrackingAlgorithm\ExecBacktracking.Cli\bin\Release\netcoreapp2.1\win-x64\ExecBacktracking.Cli.deps.json
+C:\Users\FamiliaOliveira\source\repos\BacktrackingAlgorithm\ExecBacktracking.Cli\bin\Release\netcoreapp2.1\win-x64\ExecBacktracking.Cli.runtimeconfig.json
+C:\Users\FamiliaOliveira\source\repos\BacktrackingAlgorithm\ExecBacktracking.Cli\bin\Release\netcoreapp2.1\win-x64\ExecBacktracking.Cli.runtimeconfig.dev.json
+C:\Users\FamiliaOliveira\source\repos\BacktrackingAlgorithm\ExecBacktracking.Cli\bin\Release\netcoreapp2.1\win-x64\ExecBacktracking.Cli.dll
+C:\Users\FamiliaOliveira\source\repos\BacktrackingAlgorithm\ExecBacktracking.Cli\bin\Release\netcoreapp2.1\win-x64\ExecBacktracking.Cli.pdb
+C:\Users\FamiliaOliveira\source\repos\BacktrackingAlgorithm\ExecBacktracking.Cli\bin\Release\netcoreapp2.1\win-x64\Backtracking.dll
+C:\Users\FamiliaOliveira\source\repos\BacktrackingAlgorithm\ExecBacktracking.Cli\bin\Release\netcoreapp2.1\win-x64\Backtracking.pdb
+C:\Users\FamiliaOliveira\source\repos\BacktrackingAlgorithm\ExecBacktracking.Cli\obj\Release\netcoreapp2.1\win-x64\ExecBacktracking.Cli.csprojAssemblyReference.cache
+C:\Users\FamiliaOliveira\source\repos\BacktrackingAlgorithm\ExecBacktracking.Cli\obj\Release\netcoreapp2.1\win-x64\ExecBacktracking.Cli.csproj.CoreCompileInputs.cache
+C:\Users\FamiliaOliveira\source\repos\BacktrackingAlgorithm\ExecBacktracking.Cli\obj\Release\netcoreapp2.1\win-x64\ExecBacktracking.Cli.AssemblyInfoInputs.cache
+C:\Users\FamiliaOliveira\source\repos\BacktrackingAlgorithm\ExecBacktracking.Cli\obj\Release\netcoreapp2.1\win-x64\ExecBacktracking.Cli.AssemblyInfo.cs
+C:\Users\FamiliaOliveira\source\repos\BacktrackingAlgorithm\ExecBacktracking.Cli\obj\Release\netcoreapp2.1\win-x64\ExecBacktracking.Cli.csproj.CopyComplete
+C:\Users\FamiliaOliveira\source\repos\BacktrackingAlgorithm\ExecBacktracking.Cli\obj\Release\netcoreapp2.1\win-x64\ExecBacktracking.Cli.dll
+C:\Users\FamiliaOliveira\source\repos\BacktrackingAlgorithm\ExecBacktracking.Cli\obj\Release\netcoreapp2.1\win-x64\ExecBacktracking.Cli.pdb

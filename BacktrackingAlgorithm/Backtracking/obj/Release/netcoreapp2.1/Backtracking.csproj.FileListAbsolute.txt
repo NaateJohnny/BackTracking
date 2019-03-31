@@ -1,0 +1,9 @@
+C:\Users\FamiliaOliveira\source\repos\BacktrackingAlgorithm\Backtracking\bin\Release\netcoreapp2.1\Backtracking.deps.json
+C:\Users\FamiliaOliveira\source\repos\BacktrackingAlgorithm\Backtracking\bin\Release\netcoreapp2.1\Backtracking.dll
+C:\Users\FamiliaOliveira\source\repos\BacktrackingAlgorithm\Backtracking\bin\Release\netcoreapp2.1\Backtracking.pdb
+C:\Users\FamiliaOliveira\source\repos\BacktrackingAlgorithm\Backtracking\obj\Release\netcoreapp2.1\Backtracking.csprojAssemblyReference.cache
+C:\Users\FamiliaOliveira\source\repos\BacktrackingAlgorithm\Backtracking\obj\Release\netcoreapp2.1\Backtracking.csproj.CoreCompileInputs.cache
+C:\Users\FamiliaOliveira\source\repos\BacktrackingAlgorithm\Backtracking\obj\Release\netcoreapp2.1\Backtracking.AssemblyInfoInputs.cache
+C:\Users\FamiliaOliveira\source\repos\BacktrackingAlgorithm\Backtracking\obj\Release\netcoreapp2.1\Backtracking.AssemblyInfo.cs
+C:\Users\FamiliaOliveira\source\repos\BacktrackingAlgorithm\Backtracking\obj\Release\netcoreapp2.1\Backtracking.dll
+C:\Users\FamiliaOliveira\source\repos\BacktrackingAlgorithm\Backtracking\obj\Release\netcoreapp2.1\Backtracking.pdb
